@@ -1,0 +1,27 @@
+header {
+    margin-top: 2rem;
+}
+h1, h2 {
+    text-align: center;
+    color: #FFF;
+}
+h1 {
+    font-size: 2.3rem;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+}
+h2 {
+    font-size: 1.2rem;
+}
+.center-img {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: calc(50vw);
+    margin-bottom: 2rem;
+}
+pletter {
+    color: #F29F05;
+}

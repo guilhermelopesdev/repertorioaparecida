@@ -1,0 +1,17 @@
+.buttons-area {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.buttons-area a {
+    display: block;
+    width: 10rem;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 1rem;
+    font-weight: bold;
+}
+a, a:visited {
+    text-decoration: none;
+    color: #021F59;
+}

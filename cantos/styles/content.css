@@ -1,0 +1,19 @@
+.content h4:first-child {
+    padding-top: 3rem;
+}
+h4 {
+    color: #fff;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+.buttons-area {
+    flex-direction: column;
+    align-items: center;
+}
+.buttons-area a {
+    margin: 0.5rem;
+}
+hr {
+    margin-top: 2rem;
+}
